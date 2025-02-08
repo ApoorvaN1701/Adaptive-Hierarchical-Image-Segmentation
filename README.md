@@ -72,8 +72,6 @@ jupyter notebook notebooks/segmentation_demo.ipynb
 ## Example Results
 
 ### Segmentation Outputs
-| Original Image | Segmented Image | Boundary Overlay |
-|---------------|----------------|------------------|
 ![Segmentation](examples/segmentation.png) 
 ![Graph visualization of superpixels](examples/superpixel_graph.png)
 

@@ -1,0 +1,2 @@
+Adjusted Rand Index (ARI): 0.7934
+Boundary F1 Score: 0.7942
